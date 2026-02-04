@@ -1,0 +1,29 @@
+The objective of this project was to explore Bootstrap 5 documentation and examples, and to remix components into clean, modern, and responsive web pages.
+1. Studied Bootstrap 5 documentation and example layouts.
+2. Identified reusable UI components such as navbars, cards, forms, and utility classes.
+3. Designed three responsive pages: Home, About, and Contact.
+4. Ensured consistent layout, spacing, and color usage.
+5. Tested responsiveness on multiple screen sizes.
+6. Deployed the project using GitHub Pages.
+
+## Tools Used
+- Bootstrap 5 Official Documentation
+- Bootstrap Examples
+- GitHub for version control
+- ChatGPT for guidance and clarification
+
+## Challenges Faced
+- Understanding responsive grid behavior
+- Maintaining consistent UI across pages
+- Avoiding direct copy-paste from examples
+
+## Solutions
+- Used Bootstrap utilities and grid system carefully
+- Tested layouts using browser developer tools
+- Remixed components instead of copying entire templates
+
+## Learning Outcome
+This project improved my understanding of Bootstrap 5, UI composition, and responsive design principles.
+
+## Time Taken
+Total time taken: **9–10 hours**
